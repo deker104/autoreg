@@ -1,1 +1,2 @@
-selenium>=3.13.0
+html5lib
+selenium
